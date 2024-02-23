@@ -1,0 +1,12 @@
+
+word-editor/bin/activate
+word-editor/bin/activate.csh
+word-editor/bin/activate.fish
+word-editor/bin/Activate.ps1
+word-editor/bin/pip
+word-editor/bin/pip3
+word-editor/bin/pip3.9
+word-editor/bin/python
+word-editor/bin/python3
+word-editor/bin/python3.9
+word-editor/pyvenv.cfg
