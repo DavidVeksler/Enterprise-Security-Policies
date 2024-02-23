@@ -47,8 +47,8 @@ def process_docx(file_path, target, replacement):
 
 # Example usage
 directory_path = "/Users/davidv/Projects/Enterprise-Security-Policies"
-target_word = "Royalty Exchange"
-replacement_word = "[Company Name]"
+target_word = "[Company Name]"
+replacement_word = "[Your Company Name :-)]"
 
 for filename in os.listdir(directory_path):
     if filename.endswith(".docx"):
